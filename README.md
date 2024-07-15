@@ -1,7 +1,4 @@
 # fuzzing101
-setups
-
-
 
 recent debian / ubuntu machine (Ubuntu 20.04 for example).
 
