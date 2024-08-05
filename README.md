@@ -11,4 +11,8 @@ debian or ubuntu on wsl on windows is also a valid configuration
 fuzz blockers
 
 
-a
+https://www.sciencedirect.com/topics/computer-science/integer-overflow
+
+https://www.sciencedirect.com/science/article/abs/pii/B9781597494861000024
+
+https://www.sciencedirect.com/book/9781597494861/a-guide-to-kernel-exploitation
